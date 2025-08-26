@@ -3,7 +3,7 @@ SQL project analyzing worldwide energy consumption, production, GDP, and emissio
 
 # 🌍 Energy Consumption Analysis (SQL Project)
 
-This project focuses on analyzing worldwide **energy consumption, production, GDP, population, and emissions** using SQL. The dataset used is `ENERGYDB2`, which contains structured data across multiple tables. The goal is to extract **actionable insights** and understand global energy patterns through advanced SQL queries.
+This project focuses on analyzing worldwide **energy consumption, production, GDP, population, and emissions** using SQL. The dataset used is `ENERGYDB`, which contains structured data across multiple tables. The goal is to extract **actionable insights** and understand global energy patterns through advanced SQL queries.
 
 ---
 
