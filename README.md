@@ -43,6 +43,6 @@ The database includes the following tables:
 ## 🛠️ Tech Stack
 - **SQL** (PostgreSQL / MySQL / SQL Server – update based on what you used)  
 - **DBMS Tool:** (PgAdmin, MySQL Workbench, etc.)  
-- **Data Source:** ENERGYDB2  
+- **Data Source:** ENERGYDB
 
 ---
