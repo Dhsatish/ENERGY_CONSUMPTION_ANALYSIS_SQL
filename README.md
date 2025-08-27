@@ -42,7 +42,7 @@ The database includes the following tables:
 
 ## 🛠️ Tech Stack
 - **SQL** (MySQL)  
-- **DBMS Tool:** (PgAdmin, MySQL Workbench, etc.)  
+- **DBMS Tool:** (MySQL Workbench)  
 - **Data Source:** ENERGYDB
 
 ---
